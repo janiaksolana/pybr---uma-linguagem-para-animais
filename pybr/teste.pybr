@@ -1,0 +1,8 @@
+# Meu primeiro script oficial na PyBr!
+nome recebe "Dev"
+pontos recebe 10
+
+mostre "Iniciando sistema..."
+mostre "Bem-vindo ao jogo, " + nome
+
+se pontos igual 10 mostre "Status: Campeão!"
